@@ -24,29 +24,29 @@ Features
 
 Technologies Used
 
--*Programming Language: Java
+- --->Programming Language: Java
 
--*Libraries: Java AWT and Swing for UI, Java Image Processing API, Cryptographic Libraries
+- --->Libraries: Java AWT and Swing for UI, Java Image Processing API, Cryptographic Libraries
 
--*Algorithm: Least Significant Bit (LSB) for image steganography, custom text embedding methods
+- --->Algorithm: Least Significant Bit (LSB) for image steganography, custom text embedding methods
 
 Applications
 
--* Secure Communication: Enables confidential message exchange without detection.
+- ---> Secure Communication: Enables confidential message exchange without detection.
 
--*Watermarking: Protects intellectual property by embedding hidden ownership information.
+- --->Watermarking: Protects intellectual property by embedding hidden ownership information.
 
--*Data Protection: Provides a secure means of storing sensitive information without raising suspicion.
+- --->Data Protection: Provides a secure means of storing sensitive information without raising suspicion.
 
-Cybersecurity: Strengthens defenses against digital espionage and cyber attacks.
+- --->Cybersecurity: Strengthens defenses against digital espionage and cyber attacks.
 
 Future Enhancements
 
-Integration with AI for Enhanced Security: Utilize AI-based detection and encryption mechanisms for improved steganography.
+- --->Integration with AI for Enhanced Security: Utilize AI-based detection and encryption mechanisms for improved steganography.
 
-Support for Additional File Formats: Extend capabilities to audio and video steganography.
+- --->Support for Additional File Formats: Extend capabilities to audio and video steganography.
 
-Cloud-Based Secure Storage: Enable secure cloud storage for steganographically protected files.
+- --->Cloud-Based Secure Storage: Enable secure cloud storage for steganographically protected files.
 
 Conclusion
 
